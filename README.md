@@ -5,7 +5,7 @@
 
 # How to use
 
->Insert links in link.txt
->execute main.sh
+Insert links in link.txt
+execute main.sh
 
 -----------------------------------------------------------------------------------------------------------------------------------
